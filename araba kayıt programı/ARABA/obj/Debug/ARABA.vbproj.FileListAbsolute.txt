@@ -1,0 +1,10 @@
+D:\VS\ARABA\ARABA\bin\Debug\ARABA.exe.config
+D:\VS\ARABA\ARABA\bin\Debug\ARABA.exe
+D:\VS\ARABA\ARABA\bin\Debug\ARABA.pdb
+D:\VS\ARABA\ARABA\bin\Debug\ARABA.xml
+D:\VS\ARABA\ARABA\obj\Debug\ARABA.Form1.resources
+D:\VS\ARABA\ARABA\obj\Debug\ARABA.Resources.resources
+D:\VS\ARABA\ARABA\obj\Debug\ARABA.vbproj.GenerateResource.Cache
+D:\VS\ARABA\ARABA\obj\Debug\ARABA.exe
+D:\VS\ARABA\ARABA\obj\Debug\ARABA.xml
+D:\VS\ARABA\ARABA\obj\Debug\ARABA.pdb
